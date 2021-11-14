@@ -1,0 +1,4 @@
+##You can lock only 1 IP for player
+users:
+  md_5:
+    IP: 127.0.0.1

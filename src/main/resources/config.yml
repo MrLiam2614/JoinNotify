@@ -1,0 +1,32 @@
+# +----------------------------+#
+# |    JoinNotify V.1.1.2      |#
+# |     Config Version 3       |#
+# |                            |#
+# |     Plugin Developer       |#
+# |        MrLiam2614          |#
+# +----------------------------+#
+# Don't change this value!
+cversion: 3
+lang: 'en'
+autodownload: true
+join:
+  enabled: true
+  message: '&6{PLAYER} &9Joined the server'
+  title:
+    enabled: true
+    title: '&9Welcome &6{PLAYER}'
+    subtitle: '&9To this server'
+    fadeIn: 2
+    stay: 6
+    fadeOut: 2
+leave:
+  enabled: true
+  message: '&6{PLAYER} &9Left the server'
+firework:
+  enabled: true
+  type: STAR
+  power: 1
+  delay: 1
+spawn:
+  enabled: false
+  location: ''

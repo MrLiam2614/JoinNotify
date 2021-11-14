@@ -1,0 +1,19 @@
+main: me.mrliam2614.JoinNotify
+name: JoinNotify
+version: 2.0.0
+author: MrLiam2614
+description: Make you server's join event the best! Add firework, custom join and leave message, secure an accout loking his IP! and a lot of feature!
+depend: [FacilitisAPI]
+api-version: 1.15
+
+commands:
+  JoinNotify:
+    description: Plugin command's help list!
+    aliases: [jn]
+    permission: joinnotify.admin
+  setspawn:
+    description: Set the spawn for the player!
+    permission: joinnotify.setspawn
+  spawn:
+    description: Go to spawn!
+    permission: joinnotify.spawn

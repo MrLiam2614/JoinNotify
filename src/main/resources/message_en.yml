@@ -1,0 +1,27 @@
+# Variable are:
+# {PLAYER} - Player name
+# {LockIP} - IP Specified on lock command
+message:
+  NotPlayer: '&cYou are not a player, so you can''t use this command!'
+  NoPerm: '&cYou don''t have permission for this command!'
+  IpNotMatch: '&7Your &6IP &7doesn''t match the &aIP &7saved into our database!'
+  InvalidArg: '&4Invalid Argument!'
+  InvalidSubArg: '&4Invalid Subargument'
+  PlReload: '&7[&6JN&7] &aPlugin Reloaded'
+  CmdUsage: '&cUsage: '
+  IpLocked: '&6{PLAYER} &7Locked with ip &6{LockIP}'
+  PlayerFound: '&aPlayer Found'
+  PlayerNotFound: '&cPlayer Not Found'
+  IpSave: '&aPlayer''s IP Saved'
+  IpRemove: '&cPlayer''s IP Removed'
+  ManualIP: '&cPlease insert IP manually'
+  NotLocked: '&6{PLAYER} &cIP is not locked'
+  UnLockedPlayer: '&6{PLAYER} &cIP unlocked'
+  PlayerReset: '&6{PLAYER} &cresetted'
+  NotNumber: '&cThe Argument is not a number!'
+  Empty: '&c{OPTION} Can not be empty!'
+  Enabled: '&6{OPTION} &ais now enabled'
+  Disabled: '&6{OPTION} &cis now disabled'
+  Updated: '&6{OPTION} &aUpdated!'
+  SpawnSaved: '&aSpawn Position Saved'
+  EmptySpawn: '&cThe spawn has not been setted!'
